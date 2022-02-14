@@ -11,9 +11,7 @@ I'm Minsoo, a self-motivated tech enthusiast and Front-end web developer.
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=333"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=000"/>
 </div>
-
-
-
+</hr>
 📫 Reach me out
 
  minsooocho@gmail.com
