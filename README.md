@@ -2,8 +2,9 @@ Hi there 👋
 
 I'm Minsoo, a self-motivated tech enthusiast and Front-end web developer.
 
-<div style="display:flex;">
+
 💫 I’m currently working on 
+<div style="display:flex;">
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/sass.js-CC6699?style=flat-square&logo=Sass&logoColor=fff"/>
@@ -12,8 +13,9 @@ I'm Minsoo, a self-motivated tech enthusiast and Front-end web developer.
 </div>
 
 📫 Reach me out
+<div style="display:flex;">
 minsooocho@gmail.com
-
+</div>
 
 <!--
 **minsoocho-hj/minsoocho-hj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
