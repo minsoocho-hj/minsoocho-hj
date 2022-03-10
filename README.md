@@ -1,4 +1,4 @@
-Hi there 👋
+Hello 👋
 
 I'm Minsoo, a self-motivated tech enthusiast and Front-end web developer.
 
