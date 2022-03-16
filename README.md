@@ -1,4 +1,4 @@
-Hello 👋
+Hi there 👋
 
 I'm Minsoo, a self-motivated tech enthusiast and Front-end web developer.
 
@@ -12,7 +12,3 @@ I'm Minsoo, a self-motivated tech enthusiast and Front-end web developer.
 <img src="https://img.shields.io/badge/sass.js-CC6699?style=flat-square&logo=Sass&logoColor=fff"/>
 <img src="https://img.shields.io/badge/PostCSS-white?style=flat-square&logo=postcss&logoColor=red"/>
 </div>
-
-📫 Reach me out
-
- minsooocho@gmail.com
