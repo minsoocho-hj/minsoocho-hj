@@ -12,4 +12,6 @@ I'm Minsoo, a self-motivated tech enthusiast and Front-end web developer.
 <img src="https://img.shields.io/badge/sass.js-CC6699?style=flat-square&logo=Sass&logoColor=fff"/>
 <img src="https://img.shields.io/badge/PostCSS-white?style=flat-square&logo=postcss&logoColor=red"/>
   <img src="https://img.shields.io/badge/Ruby-white?style=flat-square&logo=ruby&logoColor=red"/>
+  <img src="https://img.shields.io/badge/Rubyonrails-white?style=flat-square&logo=ruby&logoColor=red"/>
+
 </div>
