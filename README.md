@@ -1,7 +1,5 @@
 Hi there 👋
 
-I'm Minsoo, a self-motivated tech enthusiast and Front-end web developer.
-
 
 💫 I’m currently working on 
 <div style="display:flex;">
