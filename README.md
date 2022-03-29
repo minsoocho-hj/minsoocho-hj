@@ -16,3 +16,4 @@ Hi there 👋
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=minsoocho-hj&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minsoocho-hj&layout=compact)]
