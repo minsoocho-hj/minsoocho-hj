@@ -13,3 +13,6 @@ Hi there 👋
   <img src="https://img.shields.io/badge/Rails-white?style=flat-square&logo=rubyonrails&logoColor=red"/>
 
 </div>
+
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=minsoocho-hj&show_icons=true)
