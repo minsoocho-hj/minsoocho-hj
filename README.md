@@ -14,9 +14,7 @@ Hi there 👋
 
 </div>
 
-<div>
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=minsoocho-hj&show_icons=true&theme=radical&hide_border=true)
-</div>
-<div>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minsoocho-hj&layout=compact&theme=radical&hide_border=true)
-</div>
+
