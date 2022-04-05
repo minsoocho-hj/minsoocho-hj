@@ -10,12 +10,12 @@ Hi there 👋
 <img src="https://img.shields.io/badge/Sass.js-CC6699?style=flat-square&logo=Sass&logoColor=fff"/>
 <img src="https://img.shields.io/badge/PostCSS-white?style=flat-square&logo=postcss&logoColor=red"/>
 <img src="https://img.shields.io/badge/Ruby-white?style=flat-square&logo=ruby&logoColor=red"/>
-<img src="https://img.shields.io/badge/Rails-white?style=flat-square&logo=rubyonrails&logoColor=white"/>
+<img src="https://img.shields.io/badge/Rails-red?style=flat-square&logo=rubyonrails&logoColor=white"/>
 </div>
 
 soon 🔜
 <div style="display:flex;">
-<img src="https://img.shields.io/badge/Typescript-blue?style=flat-square&logo=typescript&logoColor=blue"/>
+<img src="https://img.shields.io/badge/Typescript-white?style=flat-square&logo=typescript&logoColor=blue"/>
 </div>
 <hr>
 
