@@ -15,6 +15,7 @@ Hi there 👋
 soon 🔜
 <div style="display:flex;">
 <img src="https://img.shields.io/badge/Typescript-white?style=flat-square&logo=typescript&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/tailwindcss-white?style=flat-square&logo=tailwindcss&logoColor=blue"/>
 </div>
 <hr>
 
