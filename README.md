@@ -1,6 +1,6 @@
 
 
-<div align="center">
+
 <p>💫 I’m currently working on </p>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=000"/>
 <img src="https://img.shields.io/badge/redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/Ruby-white?style=flat-square&logo=ruby&logoColor=red"/>
 <img src="https://img.shields.io/badge/Rails-red?style=flat-square&logo=rubyonrails&logoColor=white"/>
   
-<div/>
+
   
 
 
