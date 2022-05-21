@@ -6,10 +6,7 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=000"/>
 <img src="https://img.shields.io/badge/redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/redux-saga-999999?style=flat-square&logo=redux-saga&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=333"/>
-<img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sass.js-CC6699?style=flat-square&logo=Sass&logoColor=fff"/>
 <img src="https://img.shields.io/badge/PostCSS-white?style=flat-square&logo=postcss&logoColor=red"/>
 <img src="https://img.shields.io/badge/Ruby-white?style=flat-square&logo=ruby&logoColor=red"/>
