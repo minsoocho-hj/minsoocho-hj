@@ -1,7 +1,7 @@
 
 
 
-<p>💫 I’m currently working on </p>
+<p> Currently working on </p>
 <div style="display:flex;">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=000"/>
 <img src="https://img.shields.io/badge/redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
